@@ -16,25 +16,17 @@ var html = `
 
             <ul class="navbar-nav ml-auto justify-content-end">
 
-                <li class="nav-item">
-                    <a class="nav-link" href="./">Economic Models</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="#">|</a>
-                </li>
-
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a class="nav-link" href="https://d8a-88.github.io/textbook">Textbook</a>
-                </li>
+                </li>-->
 
                 <li class="nav-item">
                     <a class="nav-link" href="policies.html">Policies</a>
                 </li>
 
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link" href="staff.html">Staff</a>
-                </li> -->
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="https://piazza.com/berkeley/fall2020/data88/home">Piazza</a>
