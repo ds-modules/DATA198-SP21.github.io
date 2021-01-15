@@ -3,7 +3,7 @@ var html = `
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="./">
-          <img src="../assets/images/capstone.png" height="25px" />
+          <img src="../assets/images/capstone.png" height="50px" />
         </a>
 
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarLinks" aria-controls="navbarLinks" aria-expanded="false" aria-label="Toggle navigation">
