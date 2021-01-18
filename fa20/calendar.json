@@ -120,15 +120,15 @@
         "title": "Lecture 7: Predicting and interpreting your model",
         "materials": [
             {
-                "title": "Module 7: Building A Linear Regression Model",
-                "url": "https://github.com/fqzbdkh/capstone_module_3/blob/master/module7.ipynb"
-            },
-            {
                 "title:": "Module 8: Multivariable Regression and Bias",
                 "url": "https://github.com/fqzbdkh/capstone_module_3/blob/master/module8.ipynb"
             }
         ],
-        "assignment": null
+        "assignment": {
+            "title": "Begin EDA for Your Capstone Project",
+            "dueDate": null,
+            "url": null
+        }
     },
     {
         "date": "Mon, Apr 5",
@@ -143,11 +143,7 @@
                 "url": null
             }
         ],
-        "assignment": {
-            "title": "Begin Your Capstone Project",
-            "dueDate": null,
-            "url": null
-        }
+        "assignment": null
     },
     {
         "date": "Mon, Apr 12",
