@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 
-# Data 88
+# Data 88E
 
 ## Description
 
@@ -17,16 +17,14 @@ issues surrounding data analysis such as privacy and design.
 
 -->
 
-The course is offered in partnership with the [Berkeley Division of Data Sciences](http://data.berkeley.edu). 
+The course is offered in partnership with the [Berkeley Division of Data Sciences](http://data.berkeley.edu).
 
 ## Offerings
 
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
-- [Fall 2020](fa20)
-- [Spring 2020](sp20)
-- [Fall 2019](fa19)
+- [Spring 2021](sp21)
 
 <!--
 
