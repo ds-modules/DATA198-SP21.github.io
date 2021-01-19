@@ -3,7 +3,7 @@ var html = `
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="./">
-          <img src="../assets/images/capstone.png" height="25px" />
+          <img src="../assets/images/capstone.png" height="50px" />
         </a>
 
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarLinks" aria-controls="navbarLinks" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,25 +16,17 @@ var html = `
 
             <ul class="navbar-nav ml-auto justify-content-end">
 
-                <li class="nav-item">
-                    <a class="nav-link" href="./">Economic Models</a>
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link" href="#">|</a>
-                </li>
-
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a class="nav-link" href="https://d8a-88.github.io/textbook">Textbook</a>
-                </li>
+                </li>-->
 
                 <li class="nav-item">
                     <a class="nav-link" href="policies.html">Policies</a>
                 </li>
 
-                <!-- <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link" href="staff.html">Staff</a>
-                </li> -->
+                </li>
 
                 <li class="nav-item">
                     <a class="nav-link" href="https://piazza.com/berkeley/fall2020/data88/home">Piazza</a>

@@ -1,8 +1,14 @@
 <link rel="stylesheet" href="sp17/theme/css/main.css" />
 
+<<<<<<< HEAD
 # Data 88E
+=======
+# DATA198-SP21
+>>>>>>> 77f09e2af78f2d6ad707a1ac345046cebaf17d1a
 
-## Description
+Data 198: Applied Data Science for Research and Discovery
+
+Data 198 is a generic course listing that encompasses several [Data 8](https://data8.org) connector courses. This repository is for the [Data 198 website](https://d8a-88.github.io).
 
 <!--
 
