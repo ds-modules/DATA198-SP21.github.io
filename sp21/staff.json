@@ -5,6 +5,18 @@
             "email": "fqzbdkh@berkeley.edu",
             "imgUrl": "assets/staff_pics/alan.jpg",
             "blurb": "Hi! I am a CS and stats double major. I’mfrom the general LA area, and this semester I also teach DATA8. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
+        },
+        {
+            "name": "Kyle Kishimoto",
+            "email": "kylek@berkeley.edu",
+            "imgUrl": null,
+            "blurb": null
+        },
+        {
+            "name": "Varun Mittal",
+            "email": "varunmittal@berkeley.edu",
+            "imgUrl": null,
+            "blurb": null
         }
 
     ],
@@ -20,6 +32,12 @@
             "email": "emily_guo@berkeley.edu",
             "imgUrl": "assets/staff_pics/emily.png",
             "blurb": "Hey! My name is Emily. I'm a sophomore in Data Science and Economics. In my free time, I like to travel, listen to music, and watch YouTube videos. Looking forward to meeting you all this semester!"
+        },
+        {
+            "name": "Hongli Zhao",
+            "email": "honglizhaobob@berkeley.edu",
+            "imgUrl": null,
+            "blurb": "Hi everyone! My name is Hongli (I go by Bob) and I am very excited to be helping out Data 198 this semester. I am an Applied Mathematics and Data Science double major. You may have seen me teaching at other EECS and Math classes as well, and I hope everyone will have an enjoyable semester with us (as I'm sure you will learn a lot in 198)! I usually spend my time doing applied math research and volunteering in different clubs. Before quarantine, you probably will spot me at the swimming pool or at YiFang waiting for my boba on weekends. I look forward to seeing you all (online..) this spring and in person soon when we are back at school."
         },
         {
             "name": "Matthew Yep",
@@ -39,6 +57,5 @@
             "imgUrl": "assets/staff_pics/sreeja.png",
             "blurb": "Hello! My name is Sreeja and I’m a sophomore studying Economics and Computer Science. I took this course during my first semester and this will be my second time CA’ing it. I enjoy caffeinated drinks, board games and anything to do with food. I am really excited meet y’all this semester! (Please don’t forgot your wear your face masks and stay safe!)"
         }
-
     ]
 }
