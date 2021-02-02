@@ -80,7 +80,7 @@
     },
     {
         "date": "Mon, Mar 8",
-        "title": "Lecture 4: Data Cleaning",
+        "title": "Lecture 5: Data Cleaning",
         "materials": [
             {
                 "title": "Module 5: Data Cleaning and String Methods",
@@ -91,7 +91,7 @@
     },
     {
         "date": "Mon, Mar 15",
-        "title": "Lecture 5: Data Visualization",
+        "title": "Lecture 6: Data Visualization",
         "materials": [
             {
                 "title": "Module 6: Data Visualization",
@@ -102,7 +102,7 @@
     },
     {
         "date": "Mon, Mar 22",
-        "title": "Lecture 6: Building A Linear Regression Model",
+        "title": "Lecture 7: Building A Linear Regression Model",
         "materials": [
             {
                 "title": "Module 7: Building A Linear Regression Model",
@@ -117,7 +117,7 @@
     },
     {
         "date": "Mon, Mar 29",
-        "title": "Lecture 7: Predicting and interpreting your model",
+        "title": "Lecture 8: Predicting and interpreting your model",
         "materials": null,
         "assignment": {
             "title": "Begin EDA for Your Capstone Project",
@@ -127,7 +127,7 @@
     },
     {
         "date": "Mon, Apr 5",
-        "title": "Lecture 8: Research methods and HCE",
+        "title": "Lecture 9: Research methods and HCE",
         "materials": [
             {
                 "title:": "Module 8: Multivariable Regression and Bias",
@@ -138,13 +138,13 @@
     },
     {
         "date": "Mon, Apr 12",
-        "title": "Lecture 9: Finalize Your Data Set",
+        "title": "Lecture 10: Finalize Your Data Set",
         "materials": [],
         "assignment": null
     },
     {
         "date": "Mon, Apr 19",
-        "title": "Lecture 10: Student worksession and Q&A/advising sessions",
+        "title": "Lecture 11: Student worksession and Q&A/advising sessions",
         "materials": [],
         "assignment": null
     },
