@@ -33,7 +33,7 @@ var html = `
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.gradescope.com/courses/154589">Gradescope</a>
+                    <a class="nav-link" href="https://www.gradescope.com/courses/241971">Gradescope</a>
                 </li>
 
                 <li class="nav-item">
