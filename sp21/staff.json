@@ -1,18 +1,12 @@
 {
     "Course Staff": [
         {
-            "name": "Alan Liang",
-            "email": "alanliang@berkeley.edu",
+            "name": "Grace Li",
+            "email": "fqzbdkh@berkeley.edu",
             "imgUrl": "assets/staff_pics/alan.jpg",
-            "blurb": "Hi! I am a EECS Masters student, previously having majored in Economics and CS at Cal. I’m sort of from Shanghai, and this semester I also teach ECON 140. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
+            "blurb": "Hi! I am a CS and stats double major. I’mfrom the general LA area, and this semester I also teach DATA8. Some things I enjoy include discovering good food, shibes, consumerism, and data science; guess which one is my favorite ;’) Looking forward to a great semester and e-meeting you all!"
         },
-        {
-            "name": "Chris Pyles",
-            "email": "cpyles@berkeley.edu",
-            "website": "https://chrispyles.io",
-            "imgUrl": "assets/staff_pics/chris.jpg",
-            "blurb": "Hi! I'm a fourth-year CS + DS major, and I also teach Data 100. Looking forward to meeting everyon this semester!"
-        }
+
     ],
     "Connector Assistants": [
         {
@@ -45,5 +39,6 @@
             "imgUrl": "assets/staff_pics/sreeja.png",
             "blurb": "Hello! My name is Sreeja and I’m a sophomore studying Economics and Computer Science. I took this course during my first semester and this will be my second time CA’ing it. I enjoy caffeinated drinks, board games and anything to do with food. I am really excited meet y’all this semester! (Please don’t forgot your wear your face masks and stay safe!)"
         }
+
     ]
 }
