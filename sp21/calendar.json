@@ -54,7 +54,7 @@
         "assignment": {
             "title": "Lab 1: Intro to Pandas",
             "dueDate": "Mon, Mar 1",
-            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21%2Ftree%2Fmain%2Fstudent_lab1&urlpath=tree%2Fstudent_lab1%2Fweek1_lab.ipynb&branch=main",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fstudent_lab1%2Fweek1_lab.ipynb&branch=main",
             "bold": true
         }
     },
