@@ -65,6 +65,10 @@
             {
                 "title": "Module 3: From datascience to Pandas (continued)",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fmodule_3%2Fmodule3.ipynb&branch=main"
+            },
+            {
+                "title": "Guest Lecture 1 (Ian Castro): Data Science in Political Campaigns",
+                "url": null
             }
         ],
         "assignment": null
