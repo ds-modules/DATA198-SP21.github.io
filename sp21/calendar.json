@@ -67,7 +67,7 @@
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fmodule_3%2Fmodule3.ipynb&branch=main"
             },
             {
-                "title": "Guest Lecture 1 (Ian Castro): Data Science in Political Campaigns",
+                "title": "Guest Lecture 1: Data Science in Political Campaigns (Ian Castro)",
                 "url": null
             }
         ],
@@ -95,7 +95,7 @@
         ],
         "assignment": {
             "title": "Lab 2: EDA, Cleaning and Visualization",
-            "dueDate": "Mon, Mar 22",
+            "dueDate": "Fri, Mar 26",
             "url": null
         }
     },
@@ -121,7 +121,7 @@
         ],
         "assignment": {
             "title": "Lab 3: Building a Regression Model",
-            "dueDate": "Mon, Apr 5",
+            "dueDate": "Fri, Apr 9",
             "url": null
         }
     },
