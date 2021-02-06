@@ -26,6 +26,11 @@
                 "url": "https://docs.google.com/presentation/d/1OgE3QvSUOiNFs6I3DpJh_rzAa8rHjlUwUnluPVLE3Po/edit?usp=sharing"
             },
             {
+                "title": "(Video)"
+                "url": "https://www.youtube.com/watch?v=lI-MS6EueR8&feature=youtu.be&ab_channel=DivisionofComputing%2CDataScience%2CandSociety"
+
+            },
+            {
                 "title": "Module 1: Intro to Jupyter Notebooks",
                 "url": "https://docs.google.com/presentation/d/18wqtiB2XiZZ8qzG78B5b96fSqA1FfiCHcKvRf6VNj_Q/edit?usp=sharing"
             }
@@ -33,6 +38,7 @@
         "assignment": {
             "title": "Student Survey",
             "dueDate": null,
+            "url": "https://forms.gle/3Ln29bAYZaVFUcP18",
             "bold": true
         }
     },
@@ -48,7 +54,7 @@
         "assignment": {
             "title": "Lab 1: Intro to Pandas",
             "dueDate": "Mon, Mar 1",
-            "url": null,
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21%2Ftree%2Fmain%2Fstudent_lab1&urlpath=tree%2Fstudent_lab1%2Fweek1_lab.ipynb&branch=main",
             "bold": true
         }
     },
