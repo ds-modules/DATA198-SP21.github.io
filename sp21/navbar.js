@@ -45,6 +45,8 @@ var html = `
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="./python-reference.html">Python Reference</a>
                     <a class="dropdown-item" href="http://data8.org/datascience/">Datascience Docs</a>
+                    <a class="dropdown-item" href="https://docs.google.com/document/d/1j24HBcrDa9J18EaTMSIAuzAtxB2w4wI_oFZmhqb0eic/edit?usp=sharing/">Final Project Prompt & Rubric</a>
+                    <a class="dropdown-item" href="https://docs.google.com/document/d/1OqHk6P8qUx9rOe4Av_JlQ-gv_zk550f_elJjKjL4UgA/edit?usp=sharing/">Project Dataset and Analysis Examples</a>
                   </div>
                 </li>
 
