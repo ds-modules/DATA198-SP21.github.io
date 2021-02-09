@@ -35,7 +35,7 @@
                 "url": "https://docs.google.com/presentation/d/18wqtiB2XiZZ8qzG78B5b96fSqA1FfiCHcKvRf6VNj_Q/edit?usp=sharing"
             }
         ],
-        "assignment": {
+        "assignment": [{
             "title": "Student Survey",
             "dueDate": null,
             "url": "https://forms.gle/3Ln29bAYZaVFUcP18",
@@ -46,7 +46,7 @@
             "dueDate": "Mon, Feb 8",
             "url": " https://forms.gle/DE7QjDeucXVm4TNB8",
             "bold": true
-        }
+        }]
     },
     {
         "date": "Mon, Feb 15",
