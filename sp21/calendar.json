@@ -36,9 +36,9 @@
             }
         ],
         "assignment": {
-            "title": "Student Survey",
-            "dueDate": null,
-            "url": "https://forms.gle/3Ln29bAYZaVFUcP18",
+            "title": "Enrollment form",
+            "dueDate": "Mon, Feb 8",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdWA_fpAqEFqSxoTTFdniWFwF-dSZxPH6cD6DWTLzQpFbOXGA/viewform?usp=sf_link",
             "bold": true
         }
     },
