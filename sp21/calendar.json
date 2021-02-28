@@ -118,7 +118,11 @@
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fmodule_6%2Fmodule6.ipynb&branch=main"
             }
         ],
-        "assignment": null
+        "assignment": {
+            "title": "(Extra Credit): fill out this course survey",
+            "dueDate": null,
+            "url": "https://forms.gle/NgscxmEnp9gxpvjSA"
+        }
     },
     {
         "date": "Mon, Mar 22",
