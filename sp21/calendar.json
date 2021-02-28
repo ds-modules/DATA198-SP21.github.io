@@ -85,7 +85,7 @@
     },
     {
         "date": "Mon, Mar 1",
-        "title": "Lecture 4: Data manipulation with Pandas and reading documentation",
+        "title": "Lecture 4: Exploratory Data Analysis (EDA)",
         "materials": [
             {
                 "title": "Module 4: Exploratory Data Analysis",
