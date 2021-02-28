@@ -122,6 +122,12 @@
     },
     {
         "date": "Mon, Mar 22",
+        "title": "Enjoy Your Spring Break !",
+        "materials": null,
+        "assignment": null
+    },
+    {
+        "date": "Mon, Mar 29",
         "title": "Lecture 7: Building A Linear Regression Model",
         "materials": [
             {
@@ -136,7 +142,7 @@
         }
     },
     {
-        "date": "Mon, Mar 29",
+        "date": "Mon, Apr 5",
         "title": "Lecture 8: Predicting and interpreting your model",
         "materials": [
             {
@@ -151,7 +157,7 @@
         }
     },
     {
-        "date": "Mon, Apr 5",
+        "date": "Mon, Apr 12",
         "title": "Lecture 9: Research methods and HCE",
         "materials": [
             {
@@ -162,19 +168,19 @@
         "assignment": null
     },
     {
-        "date": "Mon, Apr 12",
+        "date": "Mon, Apr 19",
         "title": "Lecture 10: Finalize Your Data Set",
         "materials": [],
         "assignment": null
     },
     {
-        "date": "Mon, Apr 19",
+        "date": "Mon, Apr 26",
         "title": "Lecture 11: Student worksession and Q&A/advising sessions",
         "materials": [],
         "assignment": null
     },
     {
-        "date": "Mon, Apr 26",
+        "date": "Mon, May 3rd",
         "title": "Peer Review and Grading",
         "materials": [],
         "assignment": null
