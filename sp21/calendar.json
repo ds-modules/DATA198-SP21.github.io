@@ -94,6 +94,10 @@
             {
                 "title": "(Videos, Part 1-4)",
                 "url": "https://www.youtube.com/watch?v=4VxfeRSzEO8&list=PLxah1rLbuvW3drmK7mFBYf-3IIBW60gv9&index=9"
+            },
+            {
+                "title": "Demo: COVID-19 Vaccination Progress",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2[…]-SP21%2Fcovid19_vacc%2Fcovid19_vacc_prog.ipynb&branch=main"
             }
         ],
         "assignment": null
@@ -105,12 +109,16 @@
             {
                 "title": "Module 5: Data Cleaning and String Methods",
                 "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fmodule_5%2Fmodule5.ipynb&branch=main"
+            },
+            {
+                "title": "(Videos, Part 1-5)",
+                "url": "https://www.youtube.com/watch?v=AX9ok2U5wSY&list=PLxah1rLbuvW3drmK7mFBYf-3IIBW60gv9&index=22"
             }
         ],
         "assignment": {
             "title": "Lab 2: EDA, Cleaning and Visualization",
             "dueDate": "Fri, Mar 26",
-            "url": null
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fstudent_lab2%2Fweek2_lab.ipynb&branch=main"
         }
     },
     {
