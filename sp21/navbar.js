@@ -47,6 +47,7 @@ var html = `
                     <a class="dropdown-item" href="http://data8.org/datascience/">Datascience Docs</a>
                     <a class="dropdown-item" href="https://docs.google.com/document/d/1j24HBcrDa9J18EaTMSIAuzAtxB2w4wI_oFZmhqb0eic/edit?usp=sharing/">Final Project Prompt & Rubric</a>
                     <a class="dropdown-item" href="https://docs.google.com/document/d/1OqHk6P8qUx9rOe4Av_JlQ-gv_zk550f_elJjKjL4UgA/edit?usp=sharing/">Project Dataset and Analysis Examples</a>
+                    <a class="dropdown-item" href="https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2[…]-SP21%2Fcovid19_vacc%2Fcovid19_vacc_prog.ipynb&branch=main">Example Notebooks</a>
                     <a class="dropdown-item" href="https://www.youtube.com/playlist?list=PLxah1rLbuvW3drmK7mFBYf-3IIBW60gv9">Lecture Recordings</a>
                   </div>
                 </li>
