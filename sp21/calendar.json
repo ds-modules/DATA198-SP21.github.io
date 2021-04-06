@@ -206,13 +206,21 @@
                 "url": "https://docs.google.com/presentation/d/1V6Di3x1q9ziFgzxwF6iaYq_nuvYbUyh3zh-zwab8zhc/edit#slide=id.p"
             }
         ],
-        "assignment": null
+        "assignment": {
+            "title": "(Opportunity) Data Science Discovery Design Showcase Sign-up",
+            "dueDate": null,
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdLz66bInxKqA6GKRFTy9xfFNrgE4ddERgsZgijCmW9_1NHuw/viewform"
+        }
     },
     {
         "date": "Mon, Apr 19",
         "title": "Lecture 10: Finalize Your Data Set",
         "materials": [],
-        "assignment": null
+        "assignment": {
+            "title": "(Survey) Help us Build a Better DATA 198!",
+            "dueDate": null,
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWFdBH6_4ZTcNzKuuh-MTD1KjbM11Npv1IrHwRG4oLKI3IxA/viewform"
+        }
     },
     {
         "date": "Mon, Apr 26",
