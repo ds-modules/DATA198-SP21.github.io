@@ -13,7 +13,7 @@ const calendarTemplate = _.template(`
 </thead>
 
 
-<!-- begin data 88 table -->
+<!-- begin data 198 table -->
 <!-- <li class="list-group-item"></li> -->
 
 <tbody id="calendar-target">
