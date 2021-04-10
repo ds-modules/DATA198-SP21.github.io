@@ -162,7 +162,25 @@
             "dueDate": "Fri, Apr 16",
             "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2F%2Fstudent_lab3%2Fweek3_lab.ipynb&branch=main"
         }
-
+    },
+    {
+        "date": "Mon, Mar 29",
+        "title": "Lecture 7: Building A Linear Regression Model",
+        "materials": [
+            {
+                "title": "Module 7: Building A Linear Regression Model",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Fmodule_7%2Fsingle-variable.ipynb&branch=main"
+            },
+            {
+                "title": "(Videos, Part 1-6)",
+                "url": "https://www.youtube.com/watch?v=G2llrg4p_Po&list=PLxah1rLbuvW3drmK7mFBYf-3IIBW60gv9&index=29&t=6s"
+            }
+        ],
+        "assignment": {
+            "title": "Lab 3: Building a Regression Model",
+            "dueDate": "Fri, Apr 16",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2F%2Fstudent_lab3%2Fweek3_lab.ipynb&branch=main"
+        }
     },
     {
         "date": "Mon, Apr 5",
