@@ -225,25 +225,14 @@
         }
     },
     {
-        "date": "Mon, Apr 19",
-        "title": "Lecture 10: Finalize Your Data Set",
-        "materials": [
-            {
-                "title:": "Demo: Predicting Graduate Admissions using Logistic Regression",
-                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FDATA-198-SP21&urlpath=tree%2FDATA-198-SP21%2Flogistic_regression_demo%2Flogistic_regression_demo.ipynb&branch=main"
-            }
-        ],
-        "assignment": {
-            "title": "(Survey) Help us Build a Better DATA 198!",
-            "dueDate": null,
-            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfWFdBH6_4ZTcNzKuuh-MTD1KjbM11Npv1IrHwRG4oLKI3IxA/viewform"
-        }
-    },
-    {
         "date": "Mon, Apr 26",
-        "title": "Lecture 11: Student worksession and Q&A/advising sessions",
+        "title": "Lecture 11: Student Work Session",
         "materials": [],
-        "assignment": null
+        "assignment": {
+            "title": "Make an 20-minute Appointment with Course Staff (link TBA)", 
+            "dueDate": null,
+            "url": null
+        }
     },
     {
         "date": "Mon, May 3rd",
